@@ -1,0 +1,25 @@
+{
+  "packs": {
+    "@kogcat/core": {
+      "integrity": "sha256:b43109829ea1fd12574a8ba9433e60ca6e0e04e2f60017f4d19ebfbca245add7",
+      "min_api_minor": 7,
+      "min_core_series": [
+        0,
+        36
+      ],
+      "min_db_schema_version": 22,
+      "release_notes": "https://github.com/KogCat/kogcat-packs/releases/tag/core-v0.0.1",
+      "required": true,
+      "sha256": "c6ca9cf3c30e5f16bd24f1f1dc9648ed14f0c63e88a1184cdd76652795c8aad4",
+      "upgrade_policy": {
+        "major": "confirm",
+        "minor": "prompt",
+        "patch": "auto"
+      },
+      "url": "https://github.com/KogCat/kogcat-packs/releases/download/core-v0.0.1/kogcat-core-0.0.1.ompack",
+      "version": "0.0.1"
+    }
+  },
+  "schema_version": 1,
+  "updated_at": "2026-05-28T01:15:00Z"
+}
